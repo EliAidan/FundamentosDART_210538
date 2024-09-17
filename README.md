@@ -10,7 +10,8 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |--|--|--|--|
 |1|Metodologia de evaluacion de la asignatura|1|Finalizada|
 |2|Instalacion y Configuracion del Entorno de Desarrollo de Flutter/Dart|23|Activa|
-|3|Hola Mundo desde DART|Por definir|Activa|
+|3|Hola Mundo desde DART|10|Activa|
+|4|Tipos de Datos DART|Por definir|Activa|
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white)
