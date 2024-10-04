@@ -16,7 +16,8 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |6|Mapa|6|Finalizada|
 |7|Listas, Iterables y Conjunto de datos|9|Finalizada|
 |8|Funciones y Parametros|11|Finalizada|
-|9|Clases y sobre escritura de metodos nativos|9|Activa|
+|9|Clases y sobre escritura de metodos nativos|9|Finalizada|
+|10|Constructores Nombrados|8|Finalizada|
 
 
 ### LISTA DE HERRAMIENTAS
