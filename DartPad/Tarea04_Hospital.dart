@@ -1,5 +1,5 @@
 void main() {
-  // Caso de Prueba 1: Creación de un paciente llamado Carlos Martin
+  // Caso de Prueba 1: Creación de un paciente llamado Elí Aidan
   final eliAidan = Paciente(
     id: 1,
     nombre: "Elí Aidan",
@@ -19,7 +19,7 @@ void main() {
   // Imprimir los datos de Carlos Martin
   print(eliAidan);
 
-  // Caso de Prueba 2: Creación de un paciente llamado Martha Flores
+  // Caso de Prueba 2: Creación de un paciente llamado Ana Gonzalez
   final anaGonzalez = Paciente(
     id: 2,
     nombre: "Ana",
@@ -40,7 +40,7 @@ void main() {
   // Imprimir los datos de Martha Flores
   print(anaGonzalez);
 
-  // Caso de Prueba 3: Creación de un paciente llamado Juan Torrez
+  // Caso de Prueba 3: Creación de un paciente llamado Carlos Martinez
   final carlosMartinez = Paciente(
     id: 3,
     nombre: "Carlos",
